@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-01-04T06:15:40.367Z</updated>
+  <updated>2018-01-04T08:08:00.911Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2018/01/04/hello-hexo/"/>
     <id>http://yoursite.com/2018/01/04/hello-hexo/</id>
     <published>2018-01-04T12:43:48.000Z</published>
-    <updated>2018-01-04T06:15:40.367Z</updated>
+    <updated>2018-01-04T08:08:00.911Z</updated>
     
     <content type="html"><![CDATA[<ol><li>身为一个名码农怎么能没有一个属于自己的个性的博客了，为此我才使用的hexo这一静态博客框架来搭建属于我自己的博客，中间踩了不少坑，走了不少弯路，还好有各位先驱前辈们留下了不少的资料文献作为参考，特此感谢。</li><li>这是我post的第一个hexo博客,特意在此写下感受，虽然在搭建过程中遇到了一些麻烦，但这者不是问题，因为在成功的那一刻，你会感觉这一切都是值得的。    </li><li>后面的话我会考虑将博客部署到vurtl上，配合hook进行自动更新，这样就会省去每次写完博客都要上服务器上手动更新的麻烦。</li><li>今后我会不定期在此博客上更新工作学习上的知识与问题，方便管理与回忆。   </li></ol>]]></content>
     
@@ -36,6 +36,10 @@
     
     </summary>
     
+      <category term="dairy" scheme="http://yoursite.com/categories/dairy/"/>
+    
+    
+      <category term="other" scheme="http://yoursite.com/tags/other/"/>
     
   </entry>
   
@@ -44,9 +48,9 @@
     <link href="http://yoursite.com/2018/01/03/hexo%E6%93%8D%E4%BD%9C%E7%AE%80%E4%BB%8B/"/>
     <id>http://yoursite.com/2018/01/03/hexo操作简介/</id>
     <published>2018-01-03T07:22:53.973Z</published>
-    <updated>2018-01-04T04:54:11.480Z</updated>
+    <updated>2018-01-04T09:04:22.638Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p><h2 id="Hexo-nexT主题使用"><a href="#Hexo-nexT主题使用" class="headerlink" title="Hexo nexT主题使用"></a>Hexo nexT主题使用</h2><h3 id="添加页面"><a href="#添加页面" class="headerlink" title="添加页面"></a>添加页面</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new page pagename</span><br></pre></td></tr></table></figure><h3 id="添加文章"><a href="#添加文章" class="headerlink" title="添加文章"></a>添加文章</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new post postname</span><br></pre></td></tr></table></figure><h3 id="归类文章"><a href="#归类文章" class="headerlink" title="归类文章"></a>归类文章</h3><blockquote><p>新建categories页面<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new page categories</span><br><span class="line">$ vim ../<span class="built_in">source</span>/categories/index.md</span><br></pre></td></tr></table></figure></p><p>在菜单内编辑<br><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">type: "categories"</span><br></pre></td></tr></table></figure></p><p>然后新建一篇文章<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new post hello</span><br><span class="line">$ vim ../<span class="built_in">source</span>/_posts/hello.md</span><br></pre></td></tr></table></figure></p><p>编辑文章菜单(一篇文章只能属于一个分类)<br><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">category: 分类名称</span><br></pre></td></tr></table></figure></p></blockquote><h3 id="添加标签"><a href="#添加标签" class="headerlink" title="添加标签"></a>添加标签</h3><blockquote><p>新建tag页面<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new page tags</span><br><span class="line">$ vim ../<span class="built_in">source</span>/tags/index.md</span><br></pre></td></tr></table></figure></p><p>在菜单内编辑<br><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">type: "tags"</span><br></pre></td></tr></table></figure></p><p>然后新建一篇文章<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new post hello -r</span><br></pre></td></tr></table></figure></p><p>编辑文章菜单(一篇文章可以有多个tag)<br><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">tags:</span><br><span class="line"><span class="code">     - tagname</span></span><br><span class="line"><span class="code">     - another tagname</span></span><br><span class="line"><span class="code">     ...</span></span><br></pre></td></tr></table></figure></p></blockquote>]]></content>
     
     <summary type="html">
     
@@ -57,6 +61,12 @@
     
     </summary>
     
+      <category term="dairy" scheme="http://yoursite.com/categories/dairy/"/>
+    
+    
+      <category term="other" scheme="http://yoursite.com/tags/other/"/>
+    
+      <category term="guide" scheme="http://yoursite.com/tags/guide/"/>
     
   </entry>
   
